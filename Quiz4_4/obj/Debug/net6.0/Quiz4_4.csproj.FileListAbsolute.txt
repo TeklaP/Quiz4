@@ -1,0 +1,15 @@
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/bin/Debug/net6.0/Quiz4_4
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/bin/Debug/net6.0/Quiz4_4.deps.json
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/bin/Debug/net6.0/Quiz4_4.runtimeconfig.json
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/bin/Debug/net6.0/Quiz4_4.dll
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/bin/Debug/net6.0/Quiz4_4.pdb
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.AssemblyInfo.cs
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.dll
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/refint/Quiz4_4.dll
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.pdb
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/Quiz4_4.genruntimeconfig.cache
+/Users/apple/RiderProjects/Quiz4/Quiz4_4/obj/Debug/net6.0/ref/Quiz4_4.dll
